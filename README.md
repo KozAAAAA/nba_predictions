@@ -8,7 +8,7 @@ The dataset used for this project consists of historical NBA player statistics t
 
 ## Model
 
-To predict the likelihood of a player being selected for the All-NBA or All-Rookie teams, a Random Forest Regressor model is trained using the previously prepared dataset. The model is trained on pairs of player statistics and their corresponding points for being selected to the All-NBA or All-Rookie teams. The model is then used to predict the number of points corresponding to players' likelihood of being selected for these teams. There are two models, one for predicting All-NBA and the other for predicting All-Rookie. The top 15 and 10 players, respectively, with the highest predicted number are selected for the teams.
+To predict the likelihood of a player being selected for the All-NBA or All-Rookie teams, a Random Forest Regressor model is trained using the previously prepared dataset. The model is trained on pairs of player statistics and their corresponding points for being selected to the All-NBA or All-Rookie teams. The model is then used to predict the number of points corresponding to players' likelihood of being selected for these teams. There are two models, one for predicting All-NBA and the other for predicting All-Rookie teams. The top 15 and 10 players, respectively, with the highest predicted number are selected for the teams.
 
 ## Usage
 
