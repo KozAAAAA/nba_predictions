@@ -12,7 +12,7 @@ To predict the likelihood of a player being selected for the All-NBA or All-Rook
 
 ## Usage
 
-To run this project, you need to have Python installed along with several Python libraries. You can install the required libraries using `pip`:
+Install the required libraries using `pip`:
 
 ```bash
 pip install -r requirements.txt
