@@ -28,7 +28,7 @@ python predict.py <json_path>
 
 ## Results
 
-The performance of the Random Forest Regressor model was evaluated using a points-based metric, specified in the `nba_predictions.ipynb` notebook.
+The performance of the Random Forest Regressor model was evaluated using a points-based metric, specified in the `nba_predictions.ipynb` notebook. The model was able to predict the All-NBA and All-Rookie teams with a high degree of accuracy. The following are the predicted teams for the 2023-24 season:
 
 | **First All-NBA Team**           | **Second All-NBA Team**       | **Third All-NBA Team**         | **First Rookie All-NBA Team** | **Second Rookie All-NBA Team**      |
 |----------------------------------|-------------------------------|--------------------------------|------------------------------|-------------------------------------|
