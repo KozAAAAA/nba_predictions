@@ -30,6 +30,14 @@ python predict.py <json_path>
 
 The performance of the Random Forest Regressor model was evaluated using a points-based metric, specified in the `nba_predictions.ipynb` notebook.
 
+| **First All-NBA Team**           | **Second All-NBA Team**       | **Third All-NBA Team**         | **First Rookie All-NBA Team** | **Second Rookie All-NBA Team**      |
+|----------------------------------|-------------------------------|--------------------------------|------------------------------|-------------------------------------|
+| Luka Doncic                      | LeBron James                  | Domantas Sabonis               | Victor Wembanyama            | Scoot Henderson                      |
+| Shai Gilgeous-Alexander          | Kevin Durant                  | DeMar DeRozan                  | Chet Holmgren                | Amen Thompson                        |
+| Giannis Antetokounmpo            | Anthony Edwards               | Jalen Brunson                  | Brandon Miller               | Trayce Jackson-Davis                 |
+| Nikola Jokic                     | Anthony Davis                 | Pascal Siakam                  | Jaime Jaquez Jr.             | Brandin Podziemski                   |
+| Jayson Tatum                     | Kawhi Leonard                 | Tyrese Haliburton              | Keyonte George               | Dereck Lively II                     |
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
